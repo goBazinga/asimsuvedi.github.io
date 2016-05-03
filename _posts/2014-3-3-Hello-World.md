@@ -1,10 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Another attempt to blog ! I'll keep trying 
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I've lost count how many times I've started blogs. Wordpress, Blogger, Posthaven, etc etc..... One or two posts and pretty much in exile until long time after that, I come out of hibernation. As if the idea blogging is fresh and new, somthing I have never tried. This is one of them. Until I hibernate !
